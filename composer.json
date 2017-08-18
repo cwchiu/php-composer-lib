@@ -1,0 +1,11 @@
+{
+    "name": "cwchiu/php-composer-lib",
+    "type": "library",
+    "authors": [
+        {
+            "name": "cwchiu",
+            "email": "sisimi.pchome@gmail.com"
+        }
+    ],
+    "require": {}
+}
