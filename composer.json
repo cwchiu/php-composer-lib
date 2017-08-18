@@ -1,6 +1,10 @@
 {
     "name": "cwchiu/php-composer-lib",
+    "description": "php composer libary test",
     "type": "library",
+    "keywords": ["composer", "example", "library"],
+    "homepage": "https://github.com/cwchiu/php-composer-lib",
+    "license": "MIT",
     "authors": [
         {
             "name": "cwchiu",
