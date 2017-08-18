@@ -7,5 +7,12 @@
             "email": "sisimi.pchome@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+
+    },
+    "autoload":{
+        "psr-4" : {
+            "cwchiu\\Lib\\" : "src"
+        }
+    }
 }
